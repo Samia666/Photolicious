@@ -1,0 +1,528 @@
+h1{
+    margin-bottom: 1px;
+}
+
+
+p{
+
+    font-size:20px;
+    margin-top: 12px;
+
+    a:hover{
+        color:rgb(104, 118, 20);
+    }
+    a:visited{
+        color: rgb(139, 12, 12);
+    }
+    
+}
+
+
+.Parent{
+     width: 100%;
+     height: auto;
+     font-size:25px;
+     background-color: rgb(21, 21, 21);
+
+     
+     
+}
+
+.one{
+
+    display: flex;  
+  justify-content: center;  
+  /* align-items: center;   */
+  gap: 0;
+     /* margin: 0; */
+    /* padding: 0; */
+    height: 750px;
+    background-image: url("https://images.pexels.com/photos/2929411/pexels-photo-2929411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
+}
+
+.two{
+
+    display: flex;  
+  justify-content: center;  
+  /* align-items: center;   */
+  gap: 0;
+    /* margin: 0;
+    padding: 0; */
+    height: 750px;
+    background-image: url("https://images.pexels.com/photos/2115221/pexels-photo-2115221.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.three{
+    display: flex;  
+  justify-content: center;  
+  /* align-items: center;   */
+  gap: 0;
+    height: 750px;
+    background-image: url("https://images.pexels.com/photos/14848866/pexels-photo-14848866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.four{
+    display: flex;  
+  justify-content: center;  
+  /* align-items: center;   */
+  gap: 0;
+    height: 750px;
+    background-image: url("https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+}
+
+.five{
+    display: flex;  
+  justify-content: center;  
+  /* align-items: center;   */
+  gap: 0;
+    height: 750px;
+    background-image: url("https://images.pexels.com/photos/11736389/pexels-photo-11736389.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.six{
+    display: flex;  
+  justify-content: center;  
+  /* align-items: center;   */
+  gap: 0;
+    height: 750px;
+    background-image: url("https://images.pexels.com/photos/11600738/pexels-photo-11600738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.seven{
+    display: flex;  
+  justify-content: center;  
+  /* align-items: center;   */
+  gap: 0;
+    height: 750px;
+    background-image: url("https://images.pexels.com/photos/8331112/pexels-photo-8331112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.eight{
+    display: flex;  
+  justify-content: center;  
+  /* align-items: center;   */
+  gap: 0;
+    height: 750px;
+    background-image: url("https://images.pexels.com/photos/1787220/pexels-photo-1787220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.nine{
+    display: flex;  
+   justify-content: center; 
+   /* align-items: center;    */
+  gap: 0;
+    height: 750px;
+    background-image: url("https://images.pexels.com/photos/3497123/pexels-photo-3497123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+ 
+ .one{
+    
+    padding: 10px;
+    margin-left: none;
+    margin-block-start: none;
+    margin-right: none;
+    h1{
+
+        color: rgb(222, 227, 231);
+    }
+p{
+    color: rgb(222, 227, 231);
+}
+a{
+    color:rgb(222, 227, 231);
+}
+.a button{
+   
+    background-color: black;
+    color: rgb(213, 237, 237);
+    /* position:relative;
+    bottom:2px;
+    left: 520px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto;
+    width:15%; */
+    right: 123px;
+    position: relative;
+    width:40%;
+    bottom:-530px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    transition: background-color 0.3s ease; 
+}
+.b button{
+   
+    /* transition: display 4s allow-discrete; */
+    color: black;
+    background-color: rgb(213, 237, 237);
+     /* position:relative; 
+    bottom:2px;
+    width:15%;
+    right: 520px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto;  */
+    left: 123px;
+    position: relative;
+    width:40%;
+    bottom:-495px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+}
+ }
+
+ .two{
+    h1{
+       color: rgb(37, 20, 1);
+   }
+    p{
+       color: rgb(37, 20, 1);
+   }
+   a{
+    color: rgb(37, 20, 1);
+}
+
+ .c button{
+    
+    background-color: black;
+    color: rgb(213, 237, 237);
+    right: 123px;
+    position: relative;
+    width:50%;
+    bottom:-530px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+} 
+.d button{
+
+    color: black;
+    background-color: rgb(213, 237, 237);
+    left: 123px;
+    position: relative;
+    width:50%;
+    bottom:-495px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+
+   }
+}
+
+   .three{
+    h1{
+       color: rgb(29, 30, 29);
+   }
+    p{
+       color: rgb(29, 30, 29);
+   }
+   a{
+    color: rgb(29, 30, 29);
+}
+.e button{
+
+    background-color: black;
+    color: rgb(213, 237, 237);
+    bottom:-530px;
+    width:43%;
+    right: 130px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;
+}
+
+.f button{
+
+    color: black;
+    background-color: rgb(213, 237, 237);
+    bottom:-495px;
+    width:43%;
+    left: 130px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;  
+} 
+   }
+
+
+   .four{
+    h1{
+       color: rgb(47, 48, 60);
+   }
+    
+   a{
+    color: rgb(47, 48, 60);
+}
+
+.g button{
+
+    background-color: black;
+    color: rgb(213, 237, 237);
+    bottom:-530px;
+    width:38%;
+    right: 130px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;
+    
+
+}
+
+.h button{
+
+    color: black;
+    background-color: rgb(213, 237, 237);
+    bottom:-495px;
+    width:38%;
+    left: 125px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;  
+   
+}  
+   }
+
+
+   .five{
+    h1{
+       color: rgb(34, 34, 35);
+   }
+    p{
+       color: rgb(34, 34, 35);
+   }
+   a{
+    color: rgb(34, 34, 35);
+}
+   
+
+.i button{
+
+    background-color: black;
+    color: rgb(213, 237, 237);
+    bottom:-530px;
+    width:44%;
+    right: 130px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;
+}
+
+.j button{
+
+    color: black;
+    background-color: rgb(213, 237, 237);
+    bottom:-495px;
+    width:44%;
+    left: 125px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;   
+}
+   }
+
+
+   .six{
+    h1{
+
+        color: antiquewhite;
+    }
+p{
+    color:antiquewhite;
+}
+a{
+    color:antiquewhite;
+}
+
+.k button{
+
+    background-color: black;
+    color: rgb(213, 237, 237);
+    bottom:-530px;
+    width:46%;
+    right: 125px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;
+}
+
+.l button{
+
+    color: black;
+    background-color: rgb(213, 237, 237);
+    bottom:-495px;
+    width:46%;
+    left: 130px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;   
+}
+ }
+
+
+
+ .seven{
+    h1{
+
+        color: rgb(249, 237, 221);
+    }
+p{
+    color:rgb(249, 237, 221);
+}
+a{
+    color:rgb(2249, 237, 221);
+}
+
+.m button{
+
+    background-color: black;
+    color: rgb(213, 237, 237);
+    bottom:-530px;
+    width:52%;
+    right: 123px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;
+}
+
+.n button{
+
+    color: black;
+    background-color: rgb(213, 237, 237);
+    bottom:-495px;
+    width:52%;
+    left: 129px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;   
+}
+ }
+
+
+ .eight{
+    h1{
+       color: rgb(44, 44, 45);
+   }
+    p{
+       color: rgb(44, 44, 45);
+   }
+   a{
+    color: rgb(44, 44, 45);
+}
+
+.o button{
+
+    background-color: black;
+    color: rgb(213, 237, 237);
+    bottom:-530px;
+    width:46%;
+    right: 115px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;
+}
+
+.p button{
+
+    color: black;
+    background-color: rgb(213, 237, 237);
+    bottom:-495px;
+    width:46%;
+    left: 132px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;   
+}
+   }
+
+
+.nine{
+ h1{
+    color: black;
+}
+ p{
+    color: black;
+}
+a{
+    color: black;
+}
+
+.q button{
+
+    background-color: black;
+    color: rgb(213, 237, 237);
+    bottom:-530px;
+    width:34%;
+    right: 100px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;
+}
+
+.r button{
+
+    color: black;
+    background-color: rgb(213, 237, 237);
+    bottom:-495px;
+    width:34%;
+    left: 140px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto; 
+    position: relative;   
+}
+
+}
+
+.ten{
+    background-image: url("b.jpg");
+    display: flex;
+    background-color: black;
+    color:azure;
+    padding: 230px;
+    height: 750px;
+
+    pre{
+        font-size: 12px;
+        text-align: justify;
+       line-height: 14px;
+       
+    }
+    
+    /* th{ */
+        color: rgb(242, 230, 242);
+    /* } */
+    /* table{ */
+
+        /* margin-left: auto;   */
+        /* margin-right: 250px; */
+    /* } */
+    /* td{ */
+    
+    text-align: center;
+    font-family: calibri;
+    
+    /* } */
+    
+    img{
+        height: 250px;
+    }
+    
+}
+
